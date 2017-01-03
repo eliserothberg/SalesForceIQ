@@ -1,1 +1,1 @@
-# SalesforceIQ
+# useYourIQ
